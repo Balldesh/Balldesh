@@ -1,9 +1,9 @@
-<h2 align="center">👨‍💻 Maxim – C/C++ Developer 👨‍💻</h2>
+<h2 align="center">📟 Muslim — C# Developer 📟</h2>
 
 <p align="center">
-  19 years old from Germany 🇩🇪<br>
-  Passionate about low-level programming, performance, and creative coding.<br>
-  Exploring OpenGL and CMake 🚀
+  20 years old from Russia 🇷🇺<br>
+I love writing code, improving it, and creating virtual worlds.<br>
+   💻Studying modern GUI development and mastering computational thinking 💻
 </p>
 
 <br />
