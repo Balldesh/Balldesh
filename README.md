@@ -9,13 +9,11 @@
 <br />
 
 <div align="center">
-
-
 </div>
 
 <br />
 
-<h3 align="center">📚 What I’m Learning 📚</h3>
+<h3 align="center">📘 What I’m Learning 📕</h3>
 
 <br />
 
@@ -24,16 +22,16 @@
     <td style="padding: 15px; vertical-align: top;">
       <table style="font-family: Consolas, monospace;">
         <tr>
-          <td style="text-align:right; padding-right:10px;">C/C++</td>
-          <td>because you can never get enough</td>
+          <td style="text-align:right; padding-right:10px;">C#</td>
+          <td>my main language for building apps and tools</td>
         </tr>
         <tr>
-          <td style="text-align:right; padding-right:10px;">OpenGL</td>
-          <td>diving into graphics programming</td>
+          <td style="text-align:right; padding-right:10px;">.NET MAUI</td>
+          <td>learning to run C# on desktop, web, and mobile</td>
         </tr>
         <tr>
-          <td style="text-align:right; padding-right:10px;">CMake</td>
-          <td>mastering efficient build systems</td>
+          <td style="text-align:right; padding-right:10px;">GUI Design</td>
+          <td>exploring modern, beautiful interfaces with WinForms & WPF</td>
         </tr>
       </table>
     </td>
@@ -122,4 +120,3 @@
 </ul>
 
 <br />
-
