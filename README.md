@@ -2,21 +2,14 @@
 
 <p align="center">
   20 years old from Russia 🇷🇺<br>
-I love writing code, improving it, and creating virtual worlds.<br>
-   💻Studying modern GUI development and mastering computational thinking 💻
+  I love writing code, improving it, and creating virtual worlds.<br>
+  💻Studying modern GUI development and mastering computational thinking 💻
 </p>
 
 <br />
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max49CMD&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-
-  [![GitHub followers](https://img.shields.io/github/followers/Max49CMD?style=social)](https://github.com/Max49CMD)
-  &nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/-Max49CMD-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Max49CMD/)
-  &nbsp;&nbsp;
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Max49CMD/)
 
 </div>
 
@@ -129,3 +122,4 @@ I love writing code, improving it, and creating virtual worlds.<br>
 </ul>
 
 <br />
+
