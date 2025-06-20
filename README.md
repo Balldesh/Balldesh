@@ -56,12 +56,6 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.learn-c.org/de/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" />
-      </a>
-      <a href="https://www.learncpp.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
-      </a>
       <a href="https://learn.microsoft.com/de-de/dotnet/csharp/" target="_blank">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
       </a>
@@ -78,9 +72,6 @@
       </a>
     </td>
     <td>
-      <a href="https://www.jetbrains.com/clion" target="_blank">
-        <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="40" height="40" />
-      </a>
       <a href="https://visualstudio.microsoft.com/de/downloads/" target="_blank">
         <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40" />
       </a>
@@ -89,12 +80,10 @@
       <a href="https://www.microsoft.com/de-de/software-download/windows11" target="_blank">
         <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" />
       </a>
-      <a href="https://www.apple.com/shop/buy-mac" target="_blank">
-        <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40" />
-      </a>
     </td>
   </tr>
 </table>
+
 
 <br />
 
