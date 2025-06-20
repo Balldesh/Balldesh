@@ -36,7 +36,8 @@
       </table>
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-     <img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-2.gif" alt="cool gif" width="250" />
+     <img src="https://raw.githubusercontent.com/Max49CMD/Pointer2Source/main/assets/myimage.png" alt="custom image" width="250" />
+
     </td>
   </tr>
 </table>
