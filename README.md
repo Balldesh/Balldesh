@@ -38,8 +38,6 @@
     <td style="padding-left: 20px; vertical-align: top;">
      <img src="https://github.com/Balldesh/Balldesh/raw/817f7ad2b4965e3147fc5d8f82141a544592c350/0463b94db6f1e49e08d14e2b6e7362c1.gif" alt="My cool gif" width="250" />
 
-
-    </td>
   </tr>
 </table>
 
