@@ -56,16 +56,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://learn.microsoft.com/de-de/dotnet/csharp/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
-      </a>
+      <div align="center">
+        <a href="https://learn.microsoft.com/de-de/dotnet/csharp/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
+        </a>
+      </div>
     </td>
     <td>
       <a href="https://github.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-      </a>
-      <a href="https://cmake.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40" />
       </a>
       <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
         <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40" />
@@ -83,6 +82,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <br />
