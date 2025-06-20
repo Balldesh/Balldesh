@@ -86,9 +86,8 @@
 <h3 align="center">🎯 Current Goals 🎯</h3>
 
 <ul>
-  <li>📘 Изучение C# и объектное ориентированное программирование.</li>
-  <li>👥 Научиться разрабатывать проекты в команде.</li>
+  <li>📘 Studying C# and object-oriented programming.</li>
+  <li>👥 Learning how to develop projects in a team.</li>
 </ul>
-
 
 <br />
