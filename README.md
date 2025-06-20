@@ -1,5 +1,3 @@
-<h2 align="center">📟 Muslim — C# Developer 📟</h2>
-
 <p align="center">
   20 years old from Russia 🇷🇺<br>
   I love writing code, improving it, and creating virtual worlds.<br>
@@ -36,8 +34,8 @@
       </table>
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-     <img src="https://github.com/Balldesh/Balldesh/raw/817f7ad2b4965e3147fc5d8f82141a544592c350/0463b94db6f1e49e08d14e2b6e7362c1.gif" alt="My cool gif" width="250" />
-
+      <img src="https://github.com/Balldesh/Balldesh/raw/817f7ad2b4965e3147fc5d8f82141a544592c350/0463b94db6f1e49e08d14e2b6e7362c1.gif" alt="My cool gif" width="250" />
+    </td>
   </tr>
 </table>
 
@@ -82,20 +80,6 @@
     </td>
   </tr>
 </table>
-
-
-
-<br />
-
-<h3 align="center">🚀 Featured Project 🚀</h3>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/Max49CMD/Discordbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Max49CMD&repo=DiscordBot&theme=tokyonight" alt="Featured Project" />
-  </a>
-</p>
 
 <br />
 
