@@ -86,10 +86,9 @@
 <h3 align="center">🎯 Current Goals 🎯</h3>
 
 <ul>
-  <li>🤖 Making my own Discord Bot</li>
-  <li>🕹️ Learn OpenGL to make a little game or engine</li>
-  <li>🧠 Deepen understanding of memory management and systems programming</li>
-  <li>👥 Learn how to manage a project with people inside my own organisation <strong>Pointer2Source</strong></li>
+  <li>📘 Изучение C# и объектное ориентированное программирование.</li>
+  <li>👥 Научиться разрабатывать проекты в команде.</li>
 </ul>
+
 
 <br />
